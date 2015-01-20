@@ -1,2 +1,2 @@
 # hello-world
-Learning to make use of GitHub
+My first repo, for the sake of learning to make use of GitHub.
